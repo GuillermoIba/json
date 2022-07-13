@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "generacion": 1,
+    "nombre": "Bulbasaur",
+    "tipo": "Planta/Veneno",
+    "imagen": "https://static.wikia.nocookie.net/espokemon/images/4/43/Bulbasaur.png"
+  },
+  {
+    "id": 2,
+    "generacion": 1,
+    "nombre": "Charmander",
+    "tipo": "Fuego",
+    "imagen": "https://static.wikia.nocookie.net/espokemon/images/5/56/Charmander.png"
+  },
+  {
+    "id": 3,
+    "generacion": 1,
+    "nombre": "Squirtle",
+    "tipo": "Agua",
+    "imagen": "https://static.wikia.nocookie.net/espokemon/images/e/e3/Squirtle.png"
+  },
+  {
+    "id": 4,
+    "generacion": 2,
+    "nombre": "Chikorita",
+    "tipo": "Planta",
+    "imagen": "https://static.wikia.nocookie.net/espokemon/images/4/4e/Chikorita.png"
+  },
+  {
+    "id": 5,
+    "generacion": 2,
+    "nombre": "Cyndaquil",
+    "tipo": "Fuego",
+    "imagen": "https://static.wikia.nocookie.net/espokemon/images/9/99/Cyndaquil.png"
+  },
+  {
+    "id": 6,
+    "generacion": 2,
+    "nombre": "Totodile",
+    "tipo": "Agua",
+    "imagen": "https://static.wikia.nocookie.net/espokemon/images/e/e7/Totodile.png"
+  },
+  {
+    "id": 7,
+    "generacion": 3,
+    "nombre": "Treecko",
+    "tipo": "Planta",
+    "imagen": "https://static.wikia.nocookie.net/espokemon/images/b/b8/Treecko.png"
+  },
+  {
+    "id": 8,
+    "generacion": 3,
+    "nombre": "Torchic",
+    "tipo": "Fuego",
+    "imagen": "https://static.wikia.nocookie.net/espokemon/images/4/4f/Torchic.png"
+  },
+  {
+    "id": 9,
+    "generacion": 3,
+    "nombre": "Mudkip",
+    "tipo": "Agua",
+    "imagen": "https://static.wikia.nocookie.net/espokemon/images/a/ae/Mudkip.png"
+  }
+]
